@@ -1,4 +1,4 @@
-# Soal UAS - Web Blog
+# Soal UAS - Web News and Blog
 
 ## Desktop Page
 
